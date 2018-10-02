@@ -1,0 +1,27 @@
+body {
+    background-image: url("/assets/images/images.jpg");
+    background-size: 100%;  
+}
+
+h4 {
+	color: white;
+    font-family: 'Notable', sans-serif;
+	font-size: 60px;
+}
+
+label {
+    color: white;
+    font-family: 'Notable', sans-serif;
+}
+
+.button-list {
+    margin: 20px 10px;
+    font-family: 'Notable', sans-serif;
+}
+
+.button-submit {
+    margin-top: 10px;
+    font-family: 'Notable', sans-serif;
+}
+
+
