@@ -1,4 +1,4 @@
-var topics = ["Led Zeppelin", "The Beatles", "Johnny Cash", "The Who", "Queen", "Pink Floyd", "Abba"];
+var topics = ["Led Zeppelin", "The Beatles", "Johnny Cash", "The Who", "Queen", "Pink Floyd", "Abba", "Spice Girls"];
 
 createBandButtons();
 

@@ -1,11 +1,11 @@
 body {
-    background-image: url("/assets/images/images.jpg");
+    background-image: url(../images/Stage.jpg);
     background-size: 100%;  
 }
 
 h4 {
-	color: white;
-    font-family: 'Notable', sans-serif;
+	color: black;
+    font-family: 'Monoton', cursive;
 	font-size: 60px;
 }
 
@@ -16,12 +16,12 @@ label {
 
 .button-list {
     margin: 20px 10px;
-    font-family: 'Notable', sans-serif;
+    font-family: 'Gudea', sans-serif;
 }
 
 .button-submit {
     margin-top: 10px;
-    font-family: 'Notable', sans-serif;
+    font-family: 'Gudea', sans-serif;
 }
 
 
